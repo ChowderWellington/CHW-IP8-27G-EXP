@@ -1,5 +1,9 @@
 # CHW-IP8-27G-EXP
-An open source inktank color printer!
+An open source inkjet color printer with a nozzle built from the ground up!
+
+(Chowder Hardware Works-Inkjet Printer 8 Nozzle-27 gauge precision nozzles-experimental)
+
+yes i love naming things annoyingly
 
 ## Model lookup
 - CHW-IP8-27G-EXP - Full printer assembly

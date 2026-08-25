@@ -15,4 +15,4 @@ yes i love naming things annoyingly
 - [PX8-20H-01](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/datasheets/PX8-20H-01%20DATASHEET.pdf)
 
 ## Model files
-- [PX8-20H-01](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/models/Main%20Nozzle%20Setup%20V4%20%2B%20Manifold.stl)
+- [PX8-20H-01 manifold + nozzle](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/models/Main%20Nozzle%20Setup%20V4%20%2B%20Manifold.stl)

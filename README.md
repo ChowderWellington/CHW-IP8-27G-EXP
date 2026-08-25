@@ -13,3 +13,6 @@ yes i love naming things annoyingly
 
 ## Datasheets
 - [PX8-20H-01](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/datasheets/PX8-20H-01%20DATASHEET.pdf)
+
+## Model files
+- [PX8-20H-01]()

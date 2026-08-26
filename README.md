@@ -6,10 +6,12 @@ An open source inkjet color printer with a nozzle built from the ground up!
 (Chowder Hardware Works-Inkjet Printer 8 Nozzle-27 gauge precision nozzles-experimental)
 Printhead: PX8-20H-01
 Manufacturer: Chowder INC
-
 yes i love naming things annoyingly
 
-## Model Name lookup
+## Overview
+The CHW-IP8-27G-EXP is an inkjet color printer that can print at really bad dpi! But it does work! and i'm not using other people's nozzles, as I built my own from scratch!
+
+## Model Names
 - CHW-IP8-27G-EXP - Full printer assembly (Printhead, nozzles, feeders etc)
 - PX8-20H-01 - Experimental nozzle (Newest model)
 

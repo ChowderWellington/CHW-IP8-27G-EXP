@@ -20,7 +20,7 @@ The CHW-IP8-27G-EXP is an inkjet color printer that can print at really bad dpi!
 - PX8-20H-01 - Experimental nozzle (Newest model)
 
 ## Datasheets
-- [PX8-20H-01](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/datasheets/PX8-20H-01%20DATASHEET.pdf)
+- [PX8-20H-01](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/assets/PX8-20H-01%20DATASHEET.pdf)
 
 ## How to print the printer
 

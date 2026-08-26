@@ -9,13 +9,19 @@ Manufacturer: Chowder INC
 
 yes i love naming things annoyingly
 
-## Model lookup
+## Model Name lookup
 - CHW-IP8-27G-EXP - Full printer assembly (Printhead, nozzles, feeders etc)
 - PX8-20H-01 - Experimental nozzle (Newest model)
 
 ## Datasheets
 - [PX8-20H-01](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/datasheets/PX8-20H-01%20DATASHEET.pdf)
 
-## Model files
+## How to print the printer
+
+1. Download the relevant files from the model files section below
+2. Print it on any 3D printer using supports. For the nozzle and the manifold, it should only generate supports for the piping. For the printhead, there should be no supports.
+3. Assemble using the guide (W.I.P)
+
+### Model files
 - [PX8-20H-01 manifold + nozzle](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/models/Main%20Nozzle%20Setup%20V4%20%2B%20Manifold.stl)
 - [CHW-IP8-27G-EXP printhead](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/models/Main%20printhead%20V1.stl)

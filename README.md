@@ -22,6 +22,8 @@ yes i love naming things annoyingly
 2. Print it on any 3D printer using supports. For the nozzle and the manifold, it should only generate supports for the piping. For the printhead, there should be no supports.
 3. Assemble using the guide (W.I.P)
 
+This project was fit for a Bambu Labs A1 Mini, and a 0.4MM nozzle, but I assume it will work on anything else.
+
 ### Model files
 - [PX8-20H-01 manifold + nozzle](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/models/Main%20Nozzle%20Setup%20V4%20%2B%20Manifold.stl)
 - [CHW-IP8-27G-EXP printhead](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/models/Main%20printhead%20V1.stl)

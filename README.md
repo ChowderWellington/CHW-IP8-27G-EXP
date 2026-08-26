@@ -10,7 +10,7 @@ Manufacturer: Chowder INC
 yes i love naming things annoyingly
 
 ## Model lookup
-- CHW-IP8-27G-EXP - Full printer assembly
+- CHW-IP8-27G-EXP - Full printer assembly (Printhead, nozzles, feeders etc)
 - PX8-20H-01 - Experimental nozzle (Newest model)
 
 ## Datasheets
@@ -18,3 +18,4 @@ yes i love naming things annoyingly
 
 ## Model files
 - [PX8-20H-01 manifold + nozzle](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/models/Main%20Nozzle%20Setup%20V4%20%2B%20Manifold.stl)
+- [CHW-IP8-27G-EXP printhead](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/models/Main%20printhead%20V1.stl)

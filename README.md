@@ -27,3 +27,6 @@ This project was fit for a Bambu Labs A1 Mini, and a 0.4MM nozzle, but I assume 
 ### Model files
 - [PX8-20H-01 manifold + nozzle](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/models/Main%20Nozzle%20Setup%20V4%20%2B%20Manifold.stl)
 - [CHW-IP8-27G-EXP printhead](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/models/Main%20printhead%20V1.stl)
+
+## Older Models
+Older models of most of the parts can be found in the models folder. However, it is NOT recommended to use them

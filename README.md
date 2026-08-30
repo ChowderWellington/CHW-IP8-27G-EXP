@@ -5,6 +5,8 @@ An open source inkjet color printer with a nozzle built from the ground up!
 
 [![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/ChowderWellington/CHW-IP8-27G-EXP/tree/main/pcb)
 
+<img src="https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/assets/image-removebg-preview.png?raw=true">
+
 (Chowder Hardware Works-Inkjet Printer 8 Nozzle-27 gauge precision nozzles-experimental)
 Printhead: PX8-20H-01
 Manufacturer: Chowder INC

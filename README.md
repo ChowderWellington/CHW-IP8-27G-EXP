@@ -19,6 +19,16 @@ The CHW-IP8-27G-EXP is an inkjet color printer that can print at really bad dpi!
 - Very replaceable (you can 3D print any non-electrical parts and to get replacements for any electrical stuff is very cheap!)
 - Custom Nozzle
 
+# Full CAD
+
+Here are the .stp files (THEY NEED TO BE PRINTED SEPARATELY) because stardance doesn't like .stl's
+
+[Nozzles+Manifold](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/raw/refs/heads/main/cad/CHW-IP8-27G-EXP%20nozzles%20+%20manifold.stp)
+
+[Printhead](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/raw/refs/heads/main/cad/CHW-IP8-27G-EXP%20printhead.stp)
+
+If you would like to recreate what I have done, use these files
+
 ## Model Names
 - CHW-IP8-27G-EXP - Full printer assembly (Printhead, nozzles, feeders etc)
 - PX8-20H-01 - Experimental nozzle (Newest model)

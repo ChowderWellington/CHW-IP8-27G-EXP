@@ -53,3 +53,8 @@ You can order the pcb from anywhere, but [here are the files you'll need](https:
 
 ## Older Models
 Older models of most of the parts can be found in the [cad folder](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/tree/main/cad). However, it is NOT recommended to use them. Please use the newest model (V4). 
+
+## Extra thanks!
+- Thank you so much to stardance for funding whatever this is! Y'all are the best!! Please keep doing what you're doing, and everyone WILL enjoy it! 
+- Also big thanks to YOUTUBE for hosting videos that i can watch to learn about printers (I knew nothing about them before this)
+- Huge thanks to any teacher in my classroom that didn't tell me off for working on this during class time whoops

@@ -29,6 +29,10 @@ Here are the .stp files (THEY NEED TO BE PRINTED SEPARATELY) because stardance d
 
 If you would like to recreate what I have done, use these files
 
+## Technical details
+
+The PX8-20H-01 contains 8 piezoelectric discs that move forward and backwards under high voltage, causing a membrane to push a tiny ink droplet out onto a page, hence the name - inkjet. A motor in the CHW-IP8-27G moves the PX8-20H-01 back and forth, meaning it can print anywhere on a page using its nozzles. 
+
 ## Model Names
 - CHW-IP8-27G-EXP - Full printer assembly (Printhead, nozzles, feeders etc)
 - PX8-20H-01 - Experimental nozzle (Newest model)

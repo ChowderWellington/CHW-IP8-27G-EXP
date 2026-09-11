@@ -29,11 +29,38 @@ The CHW-IP8-27G-EXP is an inkjet color printer that can print at really bad dpi!
 
 Here are the .stp files (THEY NEED TO BE PRINTED SEPARATELY) because stardance doesn't like .stl's
 
-[Nozzles+Manifold](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/raw/refs/heads/main/cad/CHW-IP8-27G-EXP%20nozzles%20+%20manifold.stp)
+[Nozzles+Manifold](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Main%20Nozzle%20Setup%20V4%20%2B%20Manifold.stp)
 
-[Printhead](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/raw/refs/heads/main/cad/CHW-IP8-27G-EXP%20printhead.stp)
+[Printhead](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Main%20printhead%20V1.stp)
 
-If you would like to recreate what I have done, use these files
+If you would like to recreate what I have done, use these files, or check out the .stls below if you would prefer them
+
+[Nozzles+Manifold](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Main%20Nozzle%20Setup%20V4%20%2B%20Manifold.stl)
+
+[Printhead](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Main%20printhead%20V1.stl)
+
+## Replacing parts (part of the Full CAD)
+
+I know a lot of the parts may break, especially the nozzles which can be faulty, but you should be able to find replacement bits for almost anything below.
+
+[Single Lid for nozzle](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Main%20Nozzle%20Setup%20V4%20Lid%20Single.stl)
+
+[Single Tank for nozzle](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Main%20Nozzle%20Setup%20V4%20Tank%20Single.stl)
+
+[Main Printhead](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Main%20printhead%20V1.stp)
+
+[Manifold](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Manifold%20V1.stl)
+
+## Older Models (part of the Full CAD)
+Older models of most of the parts can be found in the [cad folder](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/tree/main/cad). However, it is NOT recommended to use them. Please use the newest model (V4). 
+
+## How to print the printer (part of the Full CAD)
+
+1. Download the relevant files from the model files section below
+2. Print it on any 3D printer using supports. For the nozzle and the manifold, it should only generate supports for the piping. For the printhead, there should be no supports.
+3. Assemble using the guide (W.I.P)
+
+This project was fit for a Bambu Labs A1 Mini, and a 0.4MM nozzle, but I assume it will work on anything else.
 
 ## Technical details
 
@@ -46,14 +73,6 @@ The PX8-20H-01 contains 8 piezoelectric discs that move forward and backwards un
 ## Datasheets
 - [PX8-20H-01](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/assets/PX8-20H-01%20DATASHEET.pdf)
 
-## How to print the printer
-
-1. Download the relevant files from the model files section below
-2. Print it on any 3D printer using supports. For the nozzle and the manifold, it should only generate supports for the piping. For the printhead, there should be no supports.
-3. Assemble using the guide (W.I.P)
-
-This project was fit for a Bambu Labs A1 Mini, and a 0.4MM nozzle, but I assume it will work on anything else.
-
 ## PCB
 You can order the pcb from anywhere, but [here are the files you'll need](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/tree/main/pcb)
 
@@ -62,9 +81,6 @@ You actually don't need most of these, just [the gerber files](https://github.co
 ### Model files
 - [PX8-20H-01 manifold + nozzle](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Main%20Nozzle%20Setup%20V4%20%2B%20Manifold.stl)
 - [CHW-IP8-27G-EXP printhead](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Main%20printhead%20V1.stl)
-
-## Older Models
-Older models of most of the parts can be found in the [cad folder](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/tree/main/cad). However, it is NOT recommended to use them. Please use the newest model (V4). 
 
 ## Extra thanks!
 - Thank you so much to stardance for funding whatever this is! Y'all are the best!! Please keep doing what you're doing, and everyone WILL enjoy it! 

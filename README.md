@@ -9,9 +9,13 @@ An open source inkjet color printer with a nozzle built from the ground up!
 [<img src="https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/assets/pcb.png?raw=true">](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/assets/pcb.png)
 
 (Chowder Hardware Works-Inkjet Printer 8 Nozzle-27 gauge precision nozzles-experimental)
+
 Printhead: PX8-20H-01
+
 Manufacturer: Chowder INC
+
 DPI: 1.5
+
 yes i love naming things annoyingly
 
 ## Overview

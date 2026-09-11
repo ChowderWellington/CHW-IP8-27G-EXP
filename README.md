@@ -78,10 +78,6 @@ You can order the pcb from anywhere, but [here are the files you'll need](https:
 
 You actually don't need most of these, just [the gerber files](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/raw/refs/heads/main/pcb/Gerber_PX8-20H-01_PCB_PX8-20H-01_2026-08-30.zip) for manufacturing. To buy the parts you'll need to solder on to the board, check out the [BOM.csv](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/BOM.csv)
 
-### Model files
-- [PX8-20H-01 manifold + nozzle](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Main%20Nozzle%20Setup%20V4%20%2B%20Manifold.stl)
-- [CHW-IP8-27G-EXP printhead](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Main%20printhead%20V1.stl)
-
 ## Extra thanks!
 - Thank you so much to stardance for funding whatever this is! Y'all are the best!! Please keep doing what you're doing, and everyone WILL enjoy it! 
 - Also big thanks to YOUTUBE for hosting videos that i can watch to learn about printers (I knew nothing about them before this)

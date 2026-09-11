@@ -76,7 +76,7 @@ The PX8-20H-01 contains 8 piezoelectric discs that move forward and backwards un
 ## PCB
 You can order the pcb from anywhere, but [here are the files you'll need](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/tree/main/pcb)
 
-You actually don't need most of these, just [the gerber files](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/raw/refs/heads/main/pcb/Gerber_PX8-20H-01_PCB_PX8-20H-01_2026-08-30.zip) for manufacturing 
+You actually don't need most of these, just [the gerber files](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/raw/refs/heads/main/pcb/Gerber_PX8-20H-01_PCB_PX8-20H-01_2026-08-30.zip) for manufacturing. To buy the parts you'll need to solder on to the board, check out the [BOM.csv](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/BOM.csv)
 
 ### Model files
 - [PX8-20H-01 manifold + nozzle](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Main%20Nozzle%20Setup%20V4%20%2B%20Manifold.stl)

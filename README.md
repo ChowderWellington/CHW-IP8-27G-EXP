@@ -1,6 +1,6 @@
 # CHW-IP8-27G-EXP
 An open source inkjet color printer with a nozzle built from the ground up!
-<div align="center"><img width=200 src="https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/assets/logo_large.png?raw=true"></div>
+<div align="center"><img width=200 src="https://raw.githubusercontent.com/ChowderWellington/CHW-IP8-27G-EXP/refs/heads/main/assets/logo_large.png"></div>
 
 <img src="https://img.shields.io/github/last-commit/ChowderWellington/CHW-IP8-27G-EXP"> <img src="https://img.shields.io/github/issues/ChowderWellington/CHW-IP8-27G-EXP"> <img src="https://img.shields.io/github/issues-closed/ChowderWellington/CHW-IP8-27G-EXP"> <img src="https://img.shields.io/github/stars/ChowderWellington/CHW-IP8-27G-EXP">
 

@@ -35,19 +35,19 @@ Here are the .stp files (THEY NEED TO BE PRINTED SEPARATELY) because stardance d
 
 If you would like to recreate what I have done, use these files, or check out the .stls below if you would prefer them
 
-[Nozzles+Manifold](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Main%20Nozzle%20Setup%20V4%20%2B%20Manifold.stl)
+[Nozzles+Manifold](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Main%20Nozzle%20Setup%20V4.5%20%2B%20Manifold.stl)
 
 [Printhead](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Main%20printhead%20V1.stl)
 
 ## Replacing parts (part of the Full CAD)
 
-I know a lot of the parts may break, especially the nozzles which can be faulty, but you should be able to find replacement bits for almost anything below.
+I know a lot of the parts may break, especially the nozzles which can be faulty, but you should be able to find replacement bits for almost anything below. These are all in stl format btw.
 
-[Single Lid for nozzle](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Main%20Nozzle%20Setup%20V4%20Lid%20Single.stl)
+[Single Lid for nozzle](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Main%20Nozzle%20Setup%20V4.5%20Lid%20Single.stl)
 
-[Single Tank for nozzle](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Main%20Nozzle%20Setup%20V4%20Tank%20Single.stl)
+[Single Tank for nozzle](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Main%20Nozzle%20Setup%20V4.5%20Tank%20Single.stl)
 
-[Main Printhead](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Main%20printhead%20V1.stp)
+[Main Printhead](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Main%20printhead%20V1.stl)
 
 [Manifold](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Manifold%20V1.stl)
 
@@ -57,7 +57,7 @@ Older models of most of the parts can be found in the [cad folder](https://githu
 ## How to print the printer (part of the Full CAD)
 
 1. Download the relevant files from the model files section below
-2. Print it on any 3D printer using supports. For the nozzle and the manifold, it should only generate supports for the piping. For the printhead, there should be no supports.
+2. Print it on any 3D printer using supports. For the nozzle and the manifold, it should only generate supports for the piping. Not inside it. For the printhead, there should be no supports.
 3. Assemble using the guide (W.I.P)
 
 This project was fit for a Bambu Labs A1 Mini, and a 0.4MM nozzle, but I assume it will work on anything else.

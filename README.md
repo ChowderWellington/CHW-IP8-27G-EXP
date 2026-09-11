@@ -51,6 +51,7 @@ This project was fit for a Bambu Labs A1 Mini, and a 0.4MM nozzle, but I assume 
 
 ## PCB
 You can order the pcb from anywhere, but [here are the files you'll need](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/tree/main/pcb)
+
 You actually don't need most of these, just [the gerber files](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/raw/refs/heads/main/pcb/Gerber_PX8-20H-01_PCB_PX8-20H-01_2026-08-30.zip) for manufacturing 
 
 ### Model files

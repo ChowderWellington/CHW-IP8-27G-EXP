@@ -11,6 +11,7 @@ An open source inkjet color printer with a nozzle built from the ground up!
 (Chowder Hardware Works-Inkjet Printer 8 Nozzle-27 gauge precision nozzles-experimental)
 Printhead: PX8-20H-01
 Manufacturer: Chowder INC
+DPI: 1.5
 yes i love naming things annoyingly
 
 ## Overview
@@ -32,7 +33,7 @@ If you would like to recreate what I have done, use these files
 
 ## Technical details
 
-The PX8-20H-01 contains 8 piezoelectric discs that move forward and backwards under high voltage, causing a membrane to push a tiny ink droplet out onto a page, hence the name - inkjet. A motor in the CHW-IP8-27G moves the PX8-20H-01 back and forth, meaning it can print anywhere on a page using its nozzles. 
+The PX8-20H-01 contains 8 piezoelectric discs that move forward and backwards under high voltage, causing a membrane to push a tiny ink droplet out onto a page, hence the name - inkjet. A motor in the CHW-IP8-27G moves the PX8-20H-01 back and forth, meaning it can print anywhere on a page using its nozzles. It is 1.5 DPI
 
 ## Model Names
 - CHW-IP8-27G-EXP - Full printer assembly (Printhead, nozzles, feeders etc)

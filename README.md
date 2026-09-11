@@ -29,7 +29,7 @@ The CHW-IP8-27G-EXP is an inkjet color printer that can print at really bad dpi!
 
 Here are the .stp files (THEY NEED TO BE PRINTED SEPARATELY) because stardance doesn't like .stl's
 
-[Nozzles+Manifold](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Main%20Nozzle%20Setup%20V4.5%20%2B%20Manifold.step)
+[Nozzles+Manifold](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Main%20Nozzle%20Setup%20V4.5%20%2B%20Manifold.stp)
 
 [Printhead](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Main%20printhead%20V1.stp)
 

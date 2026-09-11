@@ -79,7 +79,7 @@ The logo was designed by me, and it has a pretty cool story!
 
 <img src="https://raw.githubusercontent.com/ChowderWellington/CHW-IP8-27G-EXP/refs/heads/main/assets/logo_small.png">
 
-I was originally going for a cool spiral sort of logo, where i made a bunch of circles that get increasingly smaller and change between black and white, but in canva, I highlighted the centre circle, and noticed that the select box looked warped for some reason. It reminded me of [this]() optical illusion so i just stuck with it, and now it is the logo!
+I was originally going for a cool spiral sort of logo, where i made a bunch of circles that get increasingly smaller and change between black and white, but in canva, I highlighted the centre circle, and noticed that the select box looked warped for some reason. It reminded me of [this](https://raw.githubusercontent.com/ChowderWellington/CHW-IP8-27G-EXP/refs/heads/main/assets/cafe-wall-big.gif) optical illusion so i just stuck with it, and now it is the logo!
 
 ## PCB
 You can order the pcb from anywhere, but [here are the files you'll need](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/tree/main/pcb)

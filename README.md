@@ -52,7 +52,7 @@ I know a lot of the parts may break, especially the nozzles which can be faulty,
 [Manifold](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/blob/main/cad/Manifold%20V1.stl)
 
 ## Older Models (part of the Full CAD)
-Older models of most of the parts can be found in the [cad folder](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/tree/main/cad). However, it is NOT recommended to use them. Please use the newest model (V4.5 for the nozzle and V1 for the printhead). 
+Older models of most of the parts can be found in the [cad folder](https://github.com/ChowderWellington/CHW-IP8-27G-EXP/tree/main/cad). However, it is NOT recommended to use them. Please use the newest model (V4.5 for the nozzle, V1 for the printhead and V1 for the manifold). 
 
 ## How to print the printer (part of the Full CAD)
 

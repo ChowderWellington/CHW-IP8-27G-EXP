@@ -56,7 +56,7 @@ Older models of most of the parts can be found in the [cad folder](https://githu
 
 ## How to print the printer (part of the Full CAD)
 
-1. Download the relevant files from the model files section below
+1. Download the relevant files from the model files section above
 2. Print it on any 3D printer using supports. For the nozzle and the manifold, it should only generate supports for the piping. Not inside it. For the printhead, there should be no supports.
 3. Assemble using the guide (W.I.P)
 

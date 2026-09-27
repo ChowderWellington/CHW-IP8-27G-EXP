@@ -64,7 +64,7 @@ This project was fit for a Bambu Labs A1 Mini, and a 0.4MM nozzle, but I assume 
 
 ## Technical details
 
-The PX8-20H-01 contains 8 piezoelectric discs that move forward and backwards under high voltage, causing a membrane to push a tiny ink droplet out onto a page, hence the name - inkjet. A motor in the CHW-IP8-27G moves the PX8-20H-01 back and forth, meaning it can print anywhere on a page using its nozzles. It is 1.5 DPI
+The PX8-20H-01 contains 8 piezoelectric discs that move forward and backwards under high voltage, causing a membrane to push a tiny ink droplet out onto a page, hence the name - inkjet. A motor in the CHW-IP8-27G moves the PX8-20H-01 back and forth, meaning it can print anywhere on a page using its nozzles. It is 1.5 DPI 
 
 ## Model Names
 - CHW-IP8-27G-EXP - Full printer assembly (Printhead, nozzles, feeders etc)
